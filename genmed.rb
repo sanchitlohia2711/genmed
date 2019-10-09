@@ -36,9 +36,12 @@ class MyScraper
 
   def parse_table(page, anchor_text)
     begin
-      FILE.puts anchor_text
-      p anchor_text
-      page.xpath("//html/body/table/tr[4]/td/table/tr").search("td").each_slice(5) do |s|
+      ""
+      FILE.puts anchor_text.gsub(/[[:space:]]+/, ' ').strip
+      p anchor_text.gsub(/[[:space:]]+/, ' ').strip
+      tds = page.xpath("//html/body/table/tr[4]/td/table/tr").search("td")
+      tds = tds[(tds.count % 5)..-1]
+      tds.each_slice(5) do |s|
         row = s.map{|w| w.text.gsub(/[[:space:]]+/, ' ').strip}.join(",")
         p row
         FILE.puts row
