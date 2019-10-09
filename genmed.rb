@@ -11,7 +11,7 @@ class MyScraper
   SELECTORS = ["//html/body/table/tr[4]/td[3]/table/tr/td", "//span/span/span"]
   TABLE_SELECTOR = [""]
   AGENT = Mechanize.new
-
+  FILE = File.open("genmed.txt", "w")
 
   def crawl
     puts "Started Crawling"
@@ -19,34 +19,32 @@ class MyScraper
     # start_crawling(page, 0, 2)
 
     page = AGENT.get(PATH2)
-    start_crawling(page, 0, 2)
+    start_crawling("", page, 0, 2)
   end
 
-  def start_crawling(page, initial_depth, final_depth)
-    puts page
+  def start_crawling(anchor_text, page, initial_depth, final_depth)
     if initial_depth == final_depth
-      parse_table(page) and return
+      parse_table(page, anchor_text) and return
     end
     initial_depth += 1
     anchors = page.xpath(*SELECTORS).search("a")
     anchors.each do |anchor|
-      new_page = Mechanize::Page::Link.new(anchor, AGENT, page).click
-      start_crawling(new_page, initial_depth, final_depth)
+      new_page = Mechanize::Page::Link.new(anchor, AGENT, page).click rescue continue
+      start_crawling(anchor.text, new_page, initial_depth, final_depth)
     end
   end
 
-  def parse_table(page)
-    page.xpath("//html/body/table/tr[4]/td/table/tr").each do |s|
-      arr = s.text().strip().gsub(/\n\n\s*\n\n/, ",").delete("\n").split(",").map(&:strip).map{|s| s.gsub(/\s\s*/," ")}
-
-      if arr.length != 5
-          arr = s.text().strip().gsub(/\n\n\s*/, ",").delete("\n").split(",").map(&:strip).map{|s| s.gsub(/\s\s*/," ")}
+  def parse_table(page, anchor_text)
+    begin
+      FILE.puts anchor_text
+      p anchor_text
+      page.xpath("//html/body/table/tr[4]/td/table/tr").search("td").each_slice(5) do |s|
+        row = s.map{|w| w.text.gsub(/[[:space:]]+/, ' ').strip}.join(",")
+        p row
+        FILE.puts row
       end
-      if arr.length != 5
-          arr = s.text().strip().gsub(/\n\s*/, ",").delete("\n").split(",").map(&:strip).map{|s| s.gsub(/\s\s*/," ")}
-      end
-      byebug if arr.length != 5
-      puts arr.inspect
+    rescue Exception => e
+      p "-------------------------> e"
     end
   end
 
