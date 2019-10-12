@@ -46,7 +46,7 @@ class MyScraper
       tds = page.xpath("//html/body/table/tr[4]/td/table/tr").search("td")
       tds = tds[(tds.count % 5)..-1]
       tds.each_slice(5) do |s|
-        row = s.map{|w| w.text.gsub(/[[:space:]]+/, ' ').strip}.join(",")
+        row = s.map{|w| w.text.gsub(/[[:space:]]+/, ' ').strip}.join("$$")
         p row
         FILE.puts row
       end

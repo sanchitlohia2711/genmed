@@ -41,7 +41,7 @@ class MyScraper
       ""
       tds = page.search("td")[2..-1]
       tds.each_slice(5) do |s|
-        row = s.map{|w| w.text.gsub(/[[:space:]]+/, ' ').strip}.join("; ")
+        row = s.map{|w| w.text.gsub(/[[:space:]]+/, ' ').strip}.join("$$")
         p row
         FILE2.puts row
       end
