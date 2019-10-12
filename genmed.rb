@@ -1,13 +1,15 @@
 require "wombat"
 require "byebug"
 require 'mechanize'
+require 'openssl'
 
 
 class MyScraper
   include Wombat::Crawler
+  OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
   PATH1 = "https://www.medlineindia.com/pharmaindex.htm"
   PATH2 = "https://www.medlineindia.com/generic%20index.html"
-  PATH3 = "https://cdscoonline.gov.in/CDSCO/Drugs"
+  PATH3 = "https://cdscoonline.gov.in/CDSCO/soam/drug_data.jsp"
   SELECTORS = ["//html/body/table/tr[4]/td[3]/table/tr/td", "//span/span/span"]
   TABLE_SELECTOR = [""]
   AGENT = Mechanize.new
@@ -60,15 +62,14 @@ class MyScraper
   def parse_table(page, anchor_text)
     begin
       ""
-      tds = page.xpath("//html/body/table/tr[4]/td/table/tr").search("td")
-      byebug
-      tds = tds[(tds.count % 5)..-1]
+      tds = page.search("td")[2..-1]
       tds.each_slice(5) do |s|
-        row = s.map{|w| w.text.gsub(/[[:space:]]+/, ' ').strip}.join(",")
+        row = s.map{|w| w.text.gsub(/[[:space:]]+/, ' ').strip}.join("; ")
         p row
-        FILE.puts row
+        FILE2.puts row
       end
     rescue Exception => e
+      byebug
       p "-------------------------> e"
     end
   end
