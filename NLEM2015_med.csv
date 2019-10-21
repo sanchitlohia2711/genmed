@@ -1,0 +1,430 @@
+1.1.1$$Halothane$$S,T$$Inhalation
+1.1.2$$Isoflurane$$S,T$$Inhalation
+1.1.3$$Ketamine$$P,S,T$$Injection 10 mg/ml Injection 50 mg/ml
+1.1.4$$Nitrous oxide$$P,S,T$$Inhalation
+1.1.5$$Oxygen$$P,S,T$$Inhalation (Medicinal gas)
+1.1.6$$Propofol$$P,S,T$$Injection 10 mg/ml
+1.1.7$$Sevoflurane$$T$$Inhalation
+1.1.8$$Thiopentone$$P,S,T$$Powder for Injection 0.5 g Powder for Injection 1 g
+1.2.1$$Bupivacaine$$S,T$$Injection 0.25% Injection 0.5% Injection 0.5% with 7.5% glucose
+1.2.2$$Lignocaine$$P,S,T$$Topical forms 2-5% Injection 1% Injection 2% Injection 5% with 7.5% Glucose
+1.2.3$$Lignocaine (A) + Adrenaline (B)$$P,S,T$$Injection 1% (A) + 1:200000 (5 mcg/ml) (B) Injection 2% (A) + 1:200000 (5 mcg/ml) (B)
+1.2.4$$Prilocaine (A) + Lignocaine (B)$$T$$Cream 2.5% (A) + 2.5% (B)
+1.3.1$$Atropine$$P,S,T$$Injection 0.6 mg/ml
+1.3.2$$Glycopyrrolate$$S,T$$Injection 0.2 mg/ml
+1.3.3$$Midazolam$$P,S,T$$Tablet 7.5 mg Tablet 15 mg Oral liquid 2 mg/ml Injection 1 mg/ml Injection 5 mg/ml
+1.3.4$$Morphine$$P,S,T$$Injection 10 mg/ml Injection 15 mg/ml
+2.1.1$$Acetylsalicylic acid$$P,S,T$$Tablet 300 mg to 500 mg Effervescent/ Dispersible/ Enteric coated Tablet 300 mg to 500 mg
+2.1.2$$Diclofenac$$P,S,T$$Tablet 50 mg Injection 25 mg/ml
+2.1.3$$Ibuprofen$$P,S,T$$Tablet 200 mg Tablet 400 mg Oral liquid 100 mg/5 ml
+2.1.4$$Mefenamic acid$$P,S,T$$Capsule 250 mg Capsule 500 mg Oral liquid 100 mg/5 ml
+2.1.5$$Paracetamol$$P,S,T$$Tablet 500 mg Tablet 650 mg All licenced oral liquid dosage forms and strengths Injection 150 mg/ml Suppository 80 mg Suppository 170 mg
+2.2.1$$Fentanyl$$S,T$$Injection 50 mcg/ml
+2.2.2$$Morphine$$P,S,T$$Tablet 10 mg Injection 10 mg/ml Injection 15 mg/ml
+2.2.3$$Tramadol$$S,T$$Capsule 50 mg Capsule 100 mg Injection 50 mg/ml
+2.3.1$$Allopurinol$$P,S,T$$Tablet 100 mg Tablet 300 mg
+2.3.2$$Colchicine$$P,S,T$$Tablet 0.5 mg
+2.4.1$$Azathioprine$$S, T$$Tablet 50 mg
+2.4.2$$Hydroxychloroquine$$S,T$$Tablet 200 mg Tablet 400 mg
+2.4.3$$Leflunomide$$S,T$$Tablet 10 mg Tablet 20 mg
+2.4.4$$Methotrexate$$S,T$$Tablet 5 mg Tablet 7.5 mg Tablet 10 mg Injection 25 mg/ ml
+2.4.5$$Sulfasalazine$$S, T$$Tablet 500 mg
+3.1$$Adrenaline$$P,S,T$$Injection 1 mg/ml
+3.2$$Cetirizine$$P,S,T$$Tablet 10 mg Oral liquid 5 mg/5 ml
+3.3$$Chlorpheniramine$$P,S,T$$Tablet 4 mg Oral liquid 2 mg/5 ml
+3.4$$Dexamethasone$$P,S,T$$Tablet 0.5 mg Injection 4 mg/ml
+3.5$$Hydrocortisone$$P,S,T$$Powder for Injection 100 mg
+3.6$$Pheniramine$$P,S,T$$Injection 22.75 mg/ml
+3.7$$Prednisolone$$P,S,T$$Tablet 5 mg Tablet 10 mg Tablet 20 mg Oral liquid 5 mg/5 ml Oral liquid 15 mg/5 ml
+4.1.1$$Activated charcoal$$P,S,T$$Powder (as licensed)
+4.2.1$$Atropine$$P,S,T$$Injection 1 mg/ml
+4.2.2$$Calcium gluconate$$P,S,T$$Injection 100 mg/ml
+4.2.3$$Desferrioxamine$$S,T$$Powder for Injection 500 mg
+4.2.4$$Dimercaprol$$S,T$$Injection 50 mg/ml
+4.2.5$$Methylthioninium chloride (Methylene blue)$$S,T$$Injection 10 mg/ml
+4.2.6$$N-acetylcysteine$$P,S,T$$Sachet 200 mg Injection 200 mg/ml
+4.2.7$$Naloxone$$P,S,T$$Injection 0.4 mg/ml
+4.2.8$$Neostigmine$$P,S,T$$Injection 0.5 mg/ml
+4.2.9$$Penicillamine$$S,T$$Capsule 250 mg
+4.2.10$$Pralidoxime chloride (2-PAM)$$P,S,T$$Injection 25 mg/ml
+4.2.11$$Snake venom antiserum a) Soluble/ liquid polyvalent b) Lyophilized polyvalent$$P,S,T$$a) Injection b) Powder for Injection
+4.2.12$$Sodium nitrite$$S,T$$Injection 30 mg/ml
+4.2.13$$Sodium thiosulphate$$S,T$$Injection 100 mg/ml
+5.1$$Carbamazepine$$P,S,T$$Tablet 100 mg Tablet 200 mg CR Tablet 200 mg Tablet 400 mg CR Tablet 400 mg Oral liquid 100 mg/5 ml Oral liquid 200 mg/5 ml
+5.2$$Clobazam$$S,T$$Tablet 5 mg Tablet 10 mg
+5.3$$Diazepam$$P,S,T$$Oral liquid 2 mg/5 ml Injection 5 mg/ml Suppository 5 mg
+5.4$$Levetiracetam$$S,T$$Tablet 250 mg Tablet 500 mg Tablet 750 mg ER Tablet 750 mg Oral liquid 100 mg/ml Injection 100 mg/ml
+5.5$$Lorazepam$$P,S,T$$Tablet 1 mg Tablet 2 mg Injection 2 mg/ml
+5.6$$Magnesium sulphate$$S,T$$Injection 500 mg/ml
+5.7$$Phenobarbitone$$P,S,T$$Tablet 30 mgTablet 60 mgOral liquid 20 mg/5 ml
+5.8$$Phenytoin$$P,S,T$$Tablet 50 mg Tablet 100 mg Tablet 300 mg ER Tablet 300 mg Oral liquid 30 mg/5 ml Oral liquid 125 mg/5 ml Injection 25 mg/ml Injection 50 mg/ml
+5.9$$Sodium valproate$$P,S,T$$Tablet 200 mg Tablet 300 mg CR Tablet 300 mg Tablet 500 mg CR Tablet 500 mg Oral liquid 200 mg/5ml
+6.1.1.1$$Albendazole$$P,S,T$$Tablet 400 mg Oral liquid 200 mg/5 ml
+6.1.1.2$$Mebendazole$$P,S,T$$Tablet 100 mg Oral liquid 100 mg/5 ml
+6.1.2.1$$Diethylcarbamazine$$P,S,T$$Tablet 50 mg Tablet 100 mg Oral liquid 120 mg/5 ml
+6.1.3.1$$Praziquantel$$S,T$$Tablet 600 mg
+6.2.1.1$$Amoxicillin$$P,S,T$$Capsule 250 mg Capsule 500 mg Oral liquid 250 mg/5 ml
+6.2.1.2$$Amoxicillin (A) + Clavulanic acid (B)$$P,S,T$$Tablet 500 mg (A) + 125 mg (B) Oral liquid 200 mg (A) + 28.5 mg (B)/5 ml Dry Syrup 125 mg (A) + 31.25 (B)/5 ml
+6.2.1.3$$Ampicillin$$P,S,T$$Powder for Injection 500 mg Powder for Injection 1 g
+6.2.1.4$$Benzathine benzylpenicillin$$P,S,T$$Powder for Injection 6 lac units Powder for Injection 12 lac units
+6.2.1.5$$Benzyl penicillin$$P,S,T$$Powder for Injection 10 lac units
+6.2.1.6$$Cefadroxil$$P,S,T$$Tablet 500 mg Tablet 1 g Oral liquid 125 mg/5 ml
+6.2.1.7$$Cefazolin$$P,S,T$$Powder for Injection 500 mg Powder for Injection 1 g
+6.2.1.8$$Cefixime$$S,T$$Tablet 200 mg Tablet 400 mg Oral liquid 50 mg/5 ml Oral liquid 100 mg/5 ml
+6.2.1.9$$Cefotaxime$$S,T$$Powder for Injection 250 mg Powder for Injection 500 mg Powder for Injection 1 g
+6.2.1.10$$Ceftazidime$$S,T$$Powder for Injection 250 mg Powder for Injection 1 g
+6.2.1.11$$Ceftriaxone$$S,T$$Powder for Injection 250 mg Powder for Injection 500 mg Powder for Injection 1 g Powder for Injection 2 g
+6.2.1.12$$Cloxacillin$$P,S,T$$Capsule 250 mg Capsule 500 mg Oral Liquid 125 mg/5 ml Powder for Injection 250 mg
+6.2.1.13$$Piperacillin (A) + Tazobactam (B)$$T$$Powder for Injection 1 g (A) + 125 mg (B) Powder for Injection 2 g (A) + 250 mg (B) Powder for Injection 4 g (A) + 500 mg (B)
+6.2.2.1$$Azithromycin$$P,S,T$$Tablet 250 mg Tablet 500 mg Oral liquid 200 mg/5ml Powder for Injection 500 mg
+6.2.2.2$$Ciprofloxacin$$P,S,T$$Tablet 250 mg Tablet 500 mg Oral liquid 250 mg/5ml Injection 200 mg/100 ml
+6.2.2.3$$Clarithromycin$$S,T$$Tablet 250 mg Tablet 500 mg Oral liquid 125mg/5 ml
+6.2.2.4$$Co-trimoxazole [Sulphamethoxazole (A) + Trimethoprim (B)]$$P,S,T$$Tablet 400 mg (A) + 80 mg (B) Tablet 800 mg (A) + 160 mg (B) Oral liquid 200 mg (A) + 40 mg (B)/5 ml
+6.2.2.5$$Doxycycline$$P,S,T$$Capsule 100 mg Dry Syrup 50mg/5 ml
+6.2.2.6$$Gentamicin$$P,S,T$$Injection 10 mg/ml Injection 40 mg/ml
+6.2.2.7$$Metronidazole$$P,S,T$$Tablet 200 mg Tablet 400 mg Oral liquid 200 mg/5 ml Injection 500 mg/100 ml
+6.2.2.8$$Nitrofurantoin$$P,S,T$$Tablet 100 mg Oral liquid 25 mg/5 ml
+6.2.2.9$$Vancomycin$$T$$Powder for Injection 250 mg Powder for Injection 500 mg Powder for Injection 1 g
+6.2.3.1$$Clofazimine$$P,S,T$$Capsule 50 mg Capsule 100 mg
+6.2.3.2$$Dapsone$$P,S,T$$Tablet 25 mg Tablet 50 mg Tablet 100 mg
+6.2.3.3$$Rifampicin$$P,S,T$$Capsule 150 mg Capsule 300 mg
+6.2.4.1$$Capreomycin$$P, S, T$$Powder for Injection 1 g
+6.2.4.2$$Cycloserine$$P, S, T$$Capsule 125 mg Capsule 250 mg
+6.2.4.3$$Ethambutol$$P,S,T$$Tablet 200 mg Tablet 400 mg Tablet 600 mg Tablet 800 mg
+6.2.4.4$$Ethionamide$$P, S, T$$Tablet 125 mg Tablet 250 mg
+6.2.4.5$$Isoniazid$$P,S,T$$Tablet 50 mg Tablet 100 mg Tablet 300 mg Oral liquid 100 mg/5 ml
+6.2.4.6$$Kanamycin$$P, S, T$$Powder for Injection 500 mg Powder for Injection 750 mg Powder for Injection 1 g
+6.2.4.7$$Levofloxacin$$P, S, T$$Tablet 250 mg Tablet 500 mg Tablet 750 mg
+6.2.4.8$$Linezolid$$P, S, T$$Tablet 600 mg
+6.2.4.9$$Moxifloxacin$$P, S, T$$Tablet 200 mg Tablet 400 mg
+6.2.4.10$$Para-aminosalicylic acid$$P,S,T$$Tablet 500 mg Granules (As licensed)
+6.2.4.11$$Pyrazinamide$$P,S,T$$Tablet 500 mg Tablet 750 mg Tablet 1000 mg Tablet 1500 mg Oral liquid 250 mg/5 ml
+6.2.4.12$$Rifabutin$$S,T$$Capsule 150 mg
+6.2.4.13$$Rifampicin$$P,S,T$$Capsule 150 mg Capsule 300 mg Capsule 450 mg Capsule 600 mg Oral liquid 100 mg/5 ml
+6.2.4.14$$Streptomycin$$P,S,T$$Powder for Injection 750 mg Powder for Injection 1 g
+6.3.1$$Amphotericin B a) Amphotericin B (conventional) b) Lipid/ Liposomal Amphotericin B$$S,T$$Powder for Injection 50 mg
+6.3.2$$Clotrimazole$$P,S,T$$Pessary 100 mg
+6.3.3$$Fluconazole$$P,S,T$$Tablet 100 mgTablet 150 mgTablet 200 mgTablet 400 mgOral liquid 50 mg/5 ml
+6.3.4$$Griseofulvin$$P,S,T$$Tablet 125 mg Tablet 250 mg Tablet 375 mg
+6.3.5$$Nystatin$$P,S,T$$Tablet 500,000 IU Pessary 100,000 IU Oral Liquid 100, 000 IU/ml
+6.4.1.1$$Acyclovir$$P,S,T$$Tablet 200 mg Tablet 400 mg Powder for Injection 250 mg Powder for Injection 500 mg Oral liquid 400 mg/5 ml
+6.4.2.1$$Ganciclovir$$S,T$$Capsule 250 mg Powder for Injection 500 mg
+6.4.3.1.1$$Abacavir$$S,T$$Tablet 60 mg Tablet 300 mg
+6.4.3.1.2$$Abacavir (A) + Lamivudine (B)$$S,T$$Tablet 60 mg (A) +30 mg (B) Tablet 600 mg (A)+ 300 mg (B)
+6.4.3.1.3$$Lamivudine (A) + Nevirapine (B) + Stavudine (C)$$S,T$$Dispersible Tablet 30 mg (A) + 50 mg (B) + 6 mg (C) Tablet 150 mg (A) + 200 mg (B) + 30 mg (C)
+6.4.3.1.4$$Lamivudine (A) + Zidovudine (B)$$S,T$$Tablet 30 mg (A) + 60 mg (B) Tablet 150 mg (A) + 300 mg (B)
+6.4.3.1.5$$Stavudine (A) + Lamivudine (B)$$S,T$$Dispersible Tablet 6 mg (A) + 30 mg (B) Tablet 30 mg (A) + 150 mg (B)
+6.4.3.1.6$$Tenofovir (A) + Lamivudine (B)$$S,T$$Tablet 300 mg (A) +300 mg (B)
+6.4.3.1.7$$Tenofovir (A) + Lamivudine (B) + Efavirenz (C)$$S,T$$Tablet 300 mg (A) + 300 mg (B) + 600 mg (C)
+6.4.3.1.8$$Zidovudine$$S,T$$Tablet 300 mg Oral liquid 50 mg/5 ml
+6.4.3.1.9$$Zidovudine (A) + Lamivudine (B) + Nevirapine (C)$$S,T$$Tablet 60 mg (A) + 30 mg (B) + 50 mg (C) Tablet 300 mg (A) + 150 mg (B) + 200 mg (C)
+6.4.3.2.1$$Efavirenz$$S,T$$Tablet 50 mg Tablet 200 mg Tablet 600 mg
+6.4.3.2.2$$Nevirapine$$S,T$$Dispersible Tablet 50 mg Tablet 200 mg Oral liquid 50 mg/5 ml
+6.4.3.3.1$$Raltegravir$$S,T$$Tablet 400 mg
+6.4.3.4.1$$Atazanavir (A) + Ritonavir (B)$$S,T$$Tablet 300 mg (A) + 100 mg (B)
+6.4.3.4.2$$Darunavir$$S,T$$Tablet 600 mg
+6.4.3.4.3$$Lopinavir (A) + Ritonavir (B)$$S,T$$Tablet 100 mg (A) + 25 mg (B) Tablet 200 mg (A) + 50 mg (B) Oral liquid 400 mg (A) + 100 mg (B)/ 5ml
+6.4.3.4.4$$Ritonavir$$S,T$$Tablet 100 mg
+6.4.4.1$$Entecavir$$S,T$$Tablet 0.5 mg Tablet 1 mg
+6.4.4.2$$Pegylated interferon alfa 2a$$S,T$$Injection 180 mcg
+6.4.4.3$$Ribavirin$$S,T$$Capsule 200 mg
+6.4.4.4$$Sofosbuvir$$S,T$$Tablet 400 mg
+6.4.4.5$$Tenofovir$$S,T$$Tablet 300 mg
+6.5.1.1$$Diloxanide furoate$$P,S,T$$Tablet 500 mg
+6.5.1.2$$Metronidazole$$P,S,T$$Tablet 200 mg Tablet 400 mg Injection 500 mg/100 ml Oral liquid 200 mg/5 ml
+6.5.2.1$$Amphotericin B a) Amphotericin B (conventional) b) Lipid/ Liposomal Amphotericin B$$S,T$$Powder for Injection 50 mg
+6.5.2.2$$Miltefosine$$P,S,T$$Capsule 10 mg Capsule 50 mg\
+6.5.2.3$$Paromomycin$$P,S,T$$Injection 375 mg/ml
+6.5.3.1.1$$Artemether (A) + Lumefantrine (B)$$P,S,T$$Tablet 20 mg (A) + 120 mg (B) Tablet 40 mg (A) + 240 mg (B) Tablet 80 mg (A) + 480 mg (B) Oral liquid 80 mg (A) + 480 mg (B)/5 ml
+6.5.3.1.2$$Artesunate$$P,S,T$$Powder for Injection 60 mg Powder for Injection 120 mg
+6.5.3.1.3$$Artesunate (A) + Sulphadoxine - Pyrimethamine (B)$$P,S,T$$Combi pack (A+B) 1 Tablet 25 mg (A) + 1 Tablet (250 mg + 12.5 mg) (B) 1 Tablet 50 mg (A) + 1 Tablet (500 mg + 25 mg) (B) 1 Tablet 100 mg (A) + 1 Tablet (750 mg + 37.5 mg) (B) 1 Tablet 150 mg (A) + 2 Tablet (500 mg + 25 mg) (B) 1 Tablet 200 mg (A) + 2 Tablet (750 mg + 37.5 mg) (B)
+6.5.3.1.4$$Chloroquine$$P,S,T$$Tablet 150 mg Oral liquid 50 mg/5 ml
+6.5.3.1.5$$Clindamycin$$P,S,T$$Capsule 150 mg Capsule 300 mg
+6.5.3.1.6$$Primaquine$$P,S,T$$Tablet 2.5 mg Tablet 7.5 mg Tablet 15 mg
+6.5.3.1.7$$Quinine$$P,S,T$$Tablet 300 mg Injection 300 mg/ml
+6.5.3.2.1$$Mefloquine$$T$$Tablet 250 mg *Only for use as chemoprophylaxis for long term travellers like military and travel troops, travelling from low endemic to high endemic area.
+6.5.4.1$$Co-trimoxazole [Sulphamethoxazole (A) + Trimethoprim (B)]$$P,S,T$$Tablet 400 mg (A) + 80 mg (B) Tablet 800 mg (A) + 160 mg (B) Oral liquid 200 mg (A) + 40 mg (B)/5 ml
+6.5.4.2$$Pentamidine$$S,T$$Powder for Injection 200 mg
+7.1.1$$Acetylsalicylic acid$$P,S,T$$Tablet 300 mg to 500 mg Effervescent/ Dispersible/ Enteric coated Tablet 300 mg to 500 mg
+7.1.2$$Paracetamol$$P,S,T$$Tablet 500 mg Tablet 650 mg
+7.1.3$$Sumatriptan$$P,S,T$$Tablet 25 mg Tablet 50 mg Injection 6 mg/ 0.5 ml
+7.2.1$$Flunarizine$$P,S,T$$Tablet 5 mg Tablet 10 mg
+7.2.2$$Propranolol$$P,S,T$$Tablet 10 mg Tablet 40 mg Tablet 80 mg
+8.1.1$$5-Fluorouracil$$T$$Injection 250 mg/5 ml
+8.1.2$$6-Mercaptopurine$$T$$Tablet 50 mg
+8.1.3$$Actinomycin D$$T$$Powder for Injection 0.5 mg
+8.1.4$$All-trans retinoic acid$$T$$Capsule 10 mg
+8.1.5$$Arsenic trioxide$$T$$Injection 1mg/ml
+8.1.6$$Bleomycin$$T$$Powder for Injection 15 units
+8.1.7$$Bortezomib$$T$$Powder for Injection 2mg
+8.1.8$$Calcium folinate$$T$$Tablet 15 mg Injection 3 mg/ml
+8.1.9$$Capecitabine$$T$$Tablet 500 mg
+8.1.10$$Carboplatin$$T$$Injection 10 mg/ml
+8.1.11$$Chlorambucil$$T$$Tablet 2 mg Tablet 5 mg
+8.1.12$$Cisplatin$$T$$Injection 1mg/ml
+8.1.13$$Cyclophosphamide$$T$$Tablet 50 mg Tablet 200 mg Powder for Injection 500 mg
+8.1.14$$Cytosine arabinoside$$T$$Injection 100 mg/ ml Powder for Injection 500 mg Powder for Injection 1000 mg
+8.1.15$$Dacarbazine$$T$$Powder for Injection 500 mg Powder for Injection 200 mg
+8.1.16$$Daunorubicin$$T$$Injection 5 mg/ml
+8.1.17$$Docetaxel$$T$$Powder for Injection 20 mg Powder for Injection 80 mg
+8.1.18$$Doxorubicin$$T$$Injection 2 mg/ml
+8.1.19$$Etoposide$$T$$Capsule 50 mg Capsule 100 mg Injection 20 mg/ml
+8.1.20$$Gefitinib$$T$$Tablet 250 mg
+8.1.21$$Gemcitabine$$T$$Powder for Injection 200 mg Powder for Injection 1 g
+8.1.22$$Ifosfamide$$T$$Powder for Injection 1 g Powder for Injection 2 g
+8.1.23$$Imatinib$$T$$Tablet 100 mg Tablet 400 mg
+8.1.24$$L-Asparaginase$$T$$Powder for Injection 5000 KU. Powder for Injection 10000 KU
+8.1.25$$Melphalan$$T$$Tablet 2 mg Tablet 5 mg
+8.1.26$$Mesna$$T$$Injection 100 mg/ml
+8.1.27$$Methotrexate$$T$$Tablet 2.5 mg Tablet 5 mg Tablet 10mg Injection 50 mg/ml
+8.1.28$$Oxaliplatin$$T$$Injection 5 mg/ml
+8.1.29$$Paclitaxel$$T$$Injection 30 mg/5 ml Injection 100 mg/16.7 ml
+8.1.30$$Procarbazine$$T$$Capsule 50 mg
+8.1.31$$Rituximab$$T$$Injection 10 mg/ml
+8.1.32$$Temozolomide$$T$$Capsule 20 mg Capsule 100 mg Capsule 250 mg
+8.1.33$$Thalidomide$$T$$Capsule 50 mg Capsule 100 mg
+8.1.34$$Trastuzumab$$T$$Injection 440 mg/50 ml
+8.1.35$$Vinblastine$$T$$Injection 1 mg/ml
+8.1.36$$Vincristine$$T$$Injection 1 mg/ml
+8.2.1$$Bicalutamide$$T$$Tablet 50 mg
+8.2.2$$Letrozole$$T$$Tablet 2.5 mg
+8.2.3$$Prednisolone$$S, T$$Tablet 10 mg Tablet 20 mg Tablet 40 mg Oral liquid 5 mg/5 ml Oral liquid 15 mg/5 ml Injection 20 mg/2 ml
+8.2.4$$Tamoxifen$$T$$Tablet 10 mg Tablet 20 mg
+8.3.1$$Azathioprine$$T$$Tablet 50 mg
+8.3.2$$Cyclosporine$$T$$Capsule10 mg Capsule 25 mg Capsule 50 mg Capsule 100 mg Oral liquid 100 mg/ml Injection 50 mg/ml
+8.3.3$$Mycophenolate mofetil$$T$$Tablet 250 mg Tablet 500 mg
+8.3.4$$Tacrolimus$$T$$Capsule 0.5 mg Capsule 1 mg Capsule 2 mg
+8.4.1$$Allopurinol$$T$$Tablet 100 mg
+8.4.2$$Amitriptyline$$T$$Tablet 10 mg Tablet 25 mg
+8.4.3$$Dexamethasone$$T$$Tablet 0.5 mg Injection 4 mg/ml
+8.4.4$$Diazepam$$T$$Tablet 2 mg Tablet 5 mg Injection 5 mg/ml
+8.4.5$$Filgrastim$$T$$Injection 300 mcg
+8.4.6$$Fluoxetine$$T$$Capsule 20 mg
+8.4.7$$Haloperidol$$T$$Tablet 1.5 mg Tablet 5 mg Injection 5 mg/ml
+8.4.8$$Lactulose$$T$$Oral liquid 10 g/15 ml
+8.4.9$$Loperamide$$T$$Tablet 2 mg
+8.4.10$$Metoclopramide$$T$$Tablet 10 mg Oral liquid 5 mg/5 ml Injection 5 mg/ml
+8.4.11$$Midazolam$$T$$Injection 1 mg/ml
+8.4.12$$Morphine$$T$$Tablet 10 mg Tablet 20 mg SR Tablet 30 mg
+8.4.13$$Ondansetron$$S,T$$Tablet 4 mg Tablet 8 mg Oral liquid 2 mg/5 ml Injection 2 mg/ml
+8.4.14$$Tramadol$$T$$Capsule 50 mg Capsule 100 mg Injection 50 mg/ml
+8.4.15$$Zoledronic acid$$T$$Powder for Injection 4 mg
+9.1$$Levodopa (A) + Carbidopa (B)$$P,S,T$$Tablet 100 mg (A) + 10 mg (B) Tablet 100 mg (A) + 25 mg (B) CR Tablet 100 mg (A) + 25 mg (B) CR Tablet 200 mg (A) + 50 (B) mg Tablet 250 mg (A) + 25 mg (B)
+9.2$$Trihexyphenidyl$$P,S,T$$Tablet 2 mg
+10.1.1$$Erythropoietin$$S,T$$Injection 2000 IU/ml Injection 10000 IU/ml
+10.1.2$$Ferrous salts$$P,S,T$$Tablet equivalent to 60 mg of elemental iron Oral liquid equivalent to 25 mg of elemental iron/ml
+10.1.3$$Ferrous salt (A) + Folic acid (B)$$P,S,T$$Tablet 45mg elemental iron (A) + 400 mcg (B) Tablet 100 mg elemental iron (A) + 500 mcg (B) Oral liqiud 20 mg elemental iron (A) + 100 mcg (B)/ml
+10.1.4$$Folic acid$$P,S,T$$Tablet 5 mg
+10.1.5$$Hydroxocobalamin$$P,S,T$$Injection 1 mg/ml
+10.1.6$$Hydroxyurea$$P,S,T$$Capsule 500 mg
+10.1.7$$Iron sucrose$$S,T$$Injection 20 mg/ml
+10.2.1$$Enoxaparin$$T$$Injection 40 mg/0.4 ml Injection 60 mg/0.6 ml
+10.2.2$$Heparin$$S,T$$Injection 1000 IU/ml Injection 5000 IU/ml
+10.2.3$$Phytomenadione (Vitamin K1)$$P,S,T$$Tablet 10mg Injection 10 mg/ml
+10.2.4$$Protamine$$S,T$$Injection 10 mg/ml
+10.2.5$$Tranexamic acid$$P,S,T$$Tablet 500 mg Injection 100 mg/ml
+10.2.6$$Warfarin$$S,T$$Tablet 1mg Tablet 2 mg Tablet 3 mg Tablet 5 mg
+11.1.1$$Fresh frozen plasma$$S,T$$As licensed
+11.1.2$$Platelet rich plasma$$S,T$$As licensed
+11.1.3$$Red blood cells$$S,T$$As licensed
+11.1.4$$Whole blood$$S,T$$As licensed
+11.2.1$$Dextran-40$$S,T$$Injection 10%
+11.3.1$$Coagulation factor IX$$S,T$$Powder for Injection 600 IU
+11.3.2$$Coagulation factor VIII$$S,T$$Powder for Injection 250 IU Powder for Injection 500 IU
+11.3.3$$Cryoprecipitate$$S,T$$As licensed
+12.1.1$$Acetylsalicylic acid$$P,S,T$$Tablet 75 mg Effervescent/ Dispersible/ Enteric coated Tablet 75 mg Tablet 100 mg Effervescent/ Dispersible/ Enteric coated Tablet 100 mg Tablet 150 mg Effervescent/ Dispersible/ Enteric coated Tablet 150 mg
+12.1.2$$Clopidogrel$$P,S,T$$Tablet 75 mg
+12.1.3$$Diltiazem$$P,S,T$$Tablet 30 mg Tablet 60 mg SR Tablet 90 mg
+12.1.4$$Glyceryl trinitrate$$P,S,T$$Sublingual tablet 0.5 mg
+12.1.5$$Isosorbide-5-mononitrate$$P,S,T$$Tablet 10 mg Tablet 20 mg SR Tablet 30 mg SR Tablet 60 mg
+12.1.6$$Isosorbide dinitrate$$P,S,T$$Tablet 5 mg Tablet 10 mg
+12.1.7$$Metoprolol$$P,S,T$$Tablet 25 mg Tablet 50 mg SR Tablet 25 mg SR Tablet 50 mg
+12.2.1$$Adenosine$$S,T$$Injection 3 mg/ml
+12.2.2$$Amiodarone$$S,T$$Tablet 100 mg Tablet 200 mg Injection 50 mg/ml
+12.2.3$$Esmolol$$T$$Injection 10 mg/ml
+12.2.4$$Lignocaine$$S,T$$Injection 2% (Preservative free for IV use)
+12.2.5$$Verapamil$$S,T$$Tablet 40 mg Tablet 80 mg Injection 2.5 mg/ml
+12.3.1$$Amlodipine$$P,S,T$$Tablet 2.5 mg Tablet 5 mg Tablet 10 mg
+12.3.2$$Atenolol$$P,S,T$$Tablet 50 mg Tablet 100 mg
+12.3.3$$Enalapril$$P,S,T$$Tablet 2.5 mg Tablet 5 mg
+12.3.4$$Hydrochlorothiazide$$P,S,T$$Tablet 12.5 mg Tablet 25 mg
+12.3.5$$Labetalol$$P,S,T$$Injection 5 mg/ml
+12.3.6$$Methyldopa$$P,S,T$$Tablet 250 mg Tablet 500 mg
+12.3.7$$Ramipril$$P,S,T$$Tablet 2.5 mg Tablet 5 mg
+12.3.8$$Sodium nitroprusside$$T$$Injection 10 mg/ml
+12.3.9$$Telmisartan$$P,S,T$$Tablet 20 mg Tablet 40 mg Tablet 80 mg
+12.4.1$$Digoxin$$S,T$$Tablet 0.25 mg Oral liquid 0.05 mg/ml Injection 0.25 mg/ml
+12.4.2$$Dobutamine$$S,T$$Injection 50 mg/ml
+12.4.3$$Dopamine$$S,T$$Injection 40 mg/ml
+12.4.4$$Noradrenaline$$S,T$$Injection 2 mg/ml
+12.5.1$$Acetylsalicylic acid$$P,S,T$$Tablet 75 mg Effervescent/ Dispersible/ Enteric coated Tablet 75 mg Tablet 100 mg Effervescent/ Dispersible/ Enteric coated Tablet 100 mg Tablet 150 mg Effervescent/ Dispersible/ Enteric coated Tablet 150 mg
+12.5.2$$Alteplase$$T$$Powder for Injection 20 mg Powder for Injection 50 mg
+12.5.3$$Heparin$$S,T$$Injection 1000 IU/ml Injection 5000 IU/ml
+12.5.4$$Streptokinase$$S,T$$Injection 750,000 IU Injection 15,00,000 IU
+12.6.1$$Atorvastatin$$P,S,T$$Tablet 10 mg Tablet 20 mg Tablet 40 mg
+13.1$$Donepezil$$S,T$$Tablet 5 mg Tablet 10 mg
+14.1.1$$Clotrimazole$$P,S,T$$Cream 1%
+14.2.1$$Framycetin$$P,S,T$$Cream 0.5%
+14.2.2$$Fusidic acid$$P,S,T$$Cream 2%
+14.2.3$$Methylrosanilinium chloride (Gentian Violet)$$P,S,T$$Topial preparation 0.25% to 2%
+14.2.4$$Povidone iodine$$P,S,T$$Solution 4% to 10%
+14.2.5$$Silver sulphadiazine$$P,S,T$$Cream 1%
+14.3.1$$Betamethasone$$P,S,T$$Cream 0.05% Cream 0.1%
+14.3.2$$Calamine$$P,S,T$$Lotion (As per IP)
+14.4.1$$Benzoyl peroxide$$P,S,T$$Gel 2.5%
+14.4.2$$Coal tar$$P,S,T$$Solution 5%
+14.4.3$$Podophyllin resin$$S,T$$Solution 10% to 25%
+14.4.4$$Salicylic acid$$P,S,T$$Ointment 6%
+14.5.1$$Permethrin$$P,S,T$$Lotion 1% Cream 5%
+14.6.1$$Glycerin$$P,S,T$$Oral Liquid
+14.6.2$$White Petrolatum$$P,S,T$$Jelly 100%
+15.1.1$$Fluorescein$$S,T$$Eye drop 1%
+15.1.2$$Lignocaine$$S,T$$Eye drop 4%
+15.1.3$$Tropicamide$$S,T$$Eye drop 1%
+15.2.1$$Barium sulphate$$S,T$$Oral liquid 100% w/v Oral liquid 250% w/v
+15.2.2$$Gadobenate$$T$$Injection 529 mg/ml
+15.2.3$$Iohexol$$S,T$$Injection 140 to 350 mg iodine/ml
+15.2.4$$Meglumine diatrizoate$$S,T$$Injection 60% w/v Injection 76% w/v
+16.1$$Haemodialysis fluid$$S,T$$As licensed
+16.2$$Intraperitoneal dialysis solution$$S,T$$As licensed
+17.1.1$$Cetrimide$$P,S,T$$Solution 20% (Concentrate for dilution)
+17.1.2$$Chlorhexidine$$P,S,T$$Solution 5% (Concentrate for dilution)
+17.1.3$$Ethyl alcohol (Denatured)$$P,S,T$$Solution 70%
+17.1.4$$Hydrogen peroxide$$P,S,T$$Solution 6%
+17.1.5$$Methylrosanilinium chloride (Gentian Violet)$$P,S,T$$Topial preparation 0.25% to 2%
+17.1.6$$Povidone iodine$$P,S,T$$Solution 4% to 10%
+17.2.1$$Bleaching powder$$P,S,T$$Containing not less than 30% w/w of available chlorine (as per I.P)
+17.2.2$$Glutaraldehyde$$S,T$$Solution 2%
+17.2.3$$Potassium permanganate$$P,S,T$$Crystals for topical solution
+18.1$$Furosemide$$P,S,T$$Tablet 40 mg Oral liquid 10 mg/ml Injection 10 mg/ ml
+18.2$$Hydrochlorothiazide$$P,S,T$$Tablet 25 mg Tablet 50 mg
+18.3$$Mannitol$$P,S,T$$Injection 10% Injection 20%
+18.4$$Spironolactone$$P,S,T$$Tablet 25 mg Tablet 50 mg
+19.1$$Budesonide$$P,S,T$$Nasal Spray 50 mcg/dose Nasal Spray 100 mcg/dose
+19.2$$Ciprofloxacin$$P,S,T$$Drops 0.3 %
+19.3$$Clotrimazole$$P,S,T$$Drops 1%
+19.4$$Xylometazoline$$P,S,T$$Nasal drops 0.05 % Nasal drops 0.1 %
+20.1.1$$Omeprazole$$P,S,T$$Capsule 10 mg Capsule 20 mg Capsule 40 mg Powder for oral liquid 20 mg
+20.1.2$$Pantoprazole$$S,T$$Injection 40 mg
+20.1.3$$Ranitidine$$P,S,T$$Tablet 150 mg Oral liquid 75 mg/5 ml Injection 25 mg/ml
+20.1.4$$Sucralfate$$S,T$$Oral liquid 1 g
+20.2.1$$Domperidone$$P,S,T$$Tablet 10 mg Oral liquid 1 mg/ml
+20.2.2$$Metoclopramide$$P,S,T$$Injection 5 mg/ml
+20.2.3$$Ondansetron$$S,T$$Tablet 4 mg Oral liquid 2 mg/5 ml Injection 2 mg/ml
+20.3.1$$5-aminosalicylic acid$$S,T$$Tablet 400 mg Suppository 500 mg Retention Enema
+20.4.1$$Dicyclomine$$P,S,T$$Tablet 10 mg Oral Solution 10mg/5ml Injection 10 mg/ml
+20.4.2$$Hyoscine butylbromide$$P,S,T$$Tablet 10 mg Injection 20 mg/ml
+20.5.1$$Bisacodyl$$P,S,T$$Tablet 5 mg Suppository 5 mg
+20.5.2$$Ispaghula$$P,S,T$$Granules/ Husk/ Powder
+20.5.3$$Lactulose$$S,T$$Oral liquid 10 g/15 ml
+20.6.1$$Oral rehydration salts$$P,S,T$$As licensed
+20.6.2$$Zinc sulphate$$P,S,T$$Dispersible Tablet 20 mg
+20.7.1$$Somatostatin$$T$$Powder for Injection 3 mg
+21.1.1$$Dexamethasone$$S,T$$Tablet 0.5 mg Injection 4 mg/ml
+21.1.2$$Human chorionic gonadotropin$$T$$Injection 1000 IU Injection 5000 IU
+21.1.3$$Hydrocortisone$$P,S,T$$Tablet 5 mg Tablet 10 mg Injection 100 mg/ml
+21.1.4$$Methylprednisolone$$S,T$$Tablet 8 mg Tablet 16 mg Tablet 32 mg Injection 40 mg/ml
+21.1.5$$Prednisolone$$P,S,T$$Tablet 5 mg Tablet 10 mg Tablet 20 mg
+21.2.1.1$$Ethinylestradiol (A) + Levonorgestrel$$P,S,T$$Tablet 0.03 mg (A) + 0.15 mg (B)
+21.2.1.2$$Ethinylestradiol (A) + Norethisterone$$P,S,T$$Tablet 0.035 mg (A) + 1 mg (B)
+21.2.2.1$$Hormone releasing IUD$$T$$Contains 52 mg of Levonorgestrel
+21.2.2.2$$IUD containing Copper$$P,S,T$$As licensed
+21.2.3.1$$Condom$$P,S,T$$As per the standards prescribed in Schedule R of Drugs and Cosmetics rules, 1945
+21.3.1$$Ethinylestradiol$$P,S,T$$Tablet 0.01 mg Tablet 0.05 mg
+21.3.2$$Levonorgestrel$$P,S,T$$Tablet 0.75 mg
+21.4.1.1$$Glimepiride$$P,S,T$$Tablet 1 mg Tablet 2 mg
+21.4.1.2$$Insulin (Soluble)$$P,S,T$$Injection 40 IU/ml
+21.4.1.3$$Intermediate Acting (NPH) Insulin$$P,S,T$$Injection 40 IU/ml
+21.4.1.4$$Metformin$$P,S,T$$Tablet 500 mg Tablet 750 mg Tablet 1000 mg (Immediate and controlled release)
+21.4.1.5$$Premix Insulin 30:70 Injection (Regular:NPH)$$P,S,T$$Injection 40 IU/ml
+21.4.2.1$$Glucose$$P,S,T$$Injection 25 %
+21.5.1$$Clomiphene$$T$$Tablet 50 mg Tablet 100 mg
+21.6.1$$Medroxyprogesteroneacetate$$P,S,T$$Tablet 5 mg Tablet 10 mg
+21.6.2$$Norethisterone$$P,S,T$$Tablet 5 mg
+21.7.1$$Carbimazole$$P,S,T$$Tablet 5 mg Tablet 10 mg
+21.7.2$$Levothyroxine$$P,S,T$$Tablet 12.5 mcg to 150 mcg* (Several strengths are available in market such as 12.5, 25, 50, 62.5, 75, 88, 100, 112 mcg. Therefore it was considered to give a range of available strengths)
+22.1.1$$Tuberculin, Purified Protein derivative$$P,S,T$$
+22.2.1$$Anti-rabies immunoglobulin$$P,S,T$$
+22.2.2$$Anti-tetanus immunoglobulin$$P,S,T$$
+22.2.3$$Anti-D immunoglobulin$$S, T$$
+22.2.4$$Diphtheria antitoxin$$P,S,T$$
+22.2.5$$Hepatitis B immunoglobulin$$S,T$$
+22.2.6$$Human normal immunoglobulin$$T$$
+22.2.7$$Snake venom antiserum a) Soluble/ liquid polyvalent b) Lyophilized polyvalent$$P,S,T$$
+22.3.1.1$$BCG vaccine$$P,S,T$$
+22.3.1.2$$DPT + Hib + Hep B vaccine$$P,S,T$$
+22.3.1.3$$DPT vaccine$$P,S,T$$
+22.3.1.4$$Hepatitis B vaccine$$P,S,T$$
+22.3.1.5$$Japanese encephalitis vaccine$$P,S,T$$
+22.3.1.6$$Measles vaccine$$P,S,T$$
+22.3.1.7$$Oral poliomyelitis vaccine$$P,S,T$$
+22.3.1.8$$Tetanus toxoid$$P,S,T$$
+22.3.2.1$$Rabies vaccine$$P,S,T$$
+23.1$$Atracurium$$S,T$$Injection 10 mg/ml
+23.2$$Baclofen$$S,T$$Tablet 5 mg Tablet 10 mg Tablet 20 mg
+23.3$$Neostigmine$$S,T$$Tablet 15 mg Injection 0.5 mg/ml
+23.4$$Succinylcholine$$S,T$$Injection 50 mg/ml
+23.5$$Vecuronium$$S,T$$Powder for Injection 4 mg Powder for Injection 10 mg
+24.1$$Alprostadil$$T$$Injection 0.5 mg/ml
+24.2$$Caffeine$$S,T$$Oral liquid 20 mg/ml Injection 20 mg/ml
+24.3$$Surfactant$$S,T$$Suspension for intratracheal instillation (As liensed)
+25.1.1$$Acyclovir$$P,S,T$$Ointment 3%
+25.1.2$$Ciprofloxacin$$P,S,T$$Drops 0.3 % Ointment 0.3%
+25.1.3$$Erythromycin$$P,S,T$$Ointment 0.5%
+25.1.4$$Gentamicin$$P,S,T$$Drops 0.3%
+25.1.5$$Natamycin$$P,S,T$$Drops 5%
+25.1.6$$Povidone iodine$$P,S,T$$Drops 0.6% Drops 5%
+25.2.1$$Prednisolone$$P,S,T$$Drops 0.1% Drops 1%
+25.3.1$$Proparacaine$$P,S,T$$Drops 0.5%
+25.4.1$$Acetazolamide$$P,S,T$$Tablet 250 mg
+25.4.2$$Pilocarpine$$P,S,T$$Drops 2% Drops 4%
+25.4.3$$Timolol$$P,S,T$$Drops 0.25% Drops 0.5%
+25.5.1$$Atropine$$P,S,T$$Drops 1% Ointment 1%
+25.5.2$$Homatropine$$P,S,T$$Drops 2%
+25.5.3$$Phenylephrine$$P,S,T$$Drops 5% Drops 10 %
+25.5.4$$Tropicamide$$P,S,T$$Drops 1%
+25.6.1$$Hydroxypropyl methylcellulose$$T$$Injection 2%
+25.7.1$$Carboxymethylcellulose$$P,S,T$$Drops 0.5% Drops 1 %
+26.1.1$$Dinoprostone$$S,T$$Tablet 0.5 mg Gel 0.5 mg
+26.1.2$$Methylergometrine$$P,S,T$$Tablet 0.125 mg Injection 0.2 mg/ml
+26.1.3$$Mifepristone$$T$$Tablet 200 mg
+26.1.4$$Misoprostol$$T$$Tablet 100 mcg Tablet 200 mcg
+26.1.5$$Oxytocin$$S,T$$Injection 5 IU/ml Injection 10 IU/ml
+26.2.1$$Betamethasone$$P,S,T$$Injection 4 mg/ml
+26.2.2$$Nifedipine$$S,T$$Tablet 10 mg
+27.1.1$$Clozapine$$T$$Tablet 25 mg Tablet 50 mg Tablet 100 mg
+27.1.2$$Fluphenazine$$S,T$$Depot Injection 25 mg/ml
+27.1.3$$Haloperidol$$S,T$$Tablet 5 mg Tablet 10 mg Tablet 20 mg Oral liquid 2 mg/ 5ml
+27.1.4$$Risperidone$$P,S,T$$Tablet 1 mg Tablet 2 mg Tablet 4 mg Oral liquid 1 mg/ml
+27.2.1.1$$Amitriptyline$$P,S,T$$Tablet 10 mg Tablet 25 mg Tablet 50 mg Tablet 75 mg
+27.2.1.2$$Escitalopram$$S,T$$Tablet 5 mg Tablet 10 mg Tablet 20 mg
+27.2.1.3$$Fluoxetine$$P,S,T$$Capsule 10 mg Capsule 20 mg Capsule 40 mg Capsule 60 mg
+27.2.2.1$$Lithium$$S,T$$Tablet 300 mg
+27.2.2.2$$Sodium valproate$$P,S,T$$Tablet 200 mg Tablet 500 mg
+27.3.1$$Clonazepam$$P,S,T$$Tablet 0.25 mg Tablet 0.5 mg Tablet 1 mg
+27.3.2$$Zolpidem$$P,S,T$$Tablet 5 mg Tablet 10 mg
+27.4.1$$Clomipramine$$S,T$$Capsule 10 mg Capsule 25 mg Capsule 75 mg
+27.4.2$$Fluoxetine$$P,S,T$$Capsule 10 mg Capsule 20 mg Capsule 40 mg Capsule 60 mg
+28.1.1$$Budesonide$$P,S,T$$Inhalation (MDI/DPI) 100 mcg/dose Inhalation (MDI/DPI) 200 mcg/dose Respirator solution for use in nebulizer 0.5 mg/ml Respirator solution for use in nebulizer 1 mg/ml
+28.1.2$$Budesonide (A)+ Formoterol (B)$$P,S,T$$Inhalation (MDI/DPI) 100 mcg (A) + 6 mcg (B) Inhalation (MDI/DPI) 200 mcg (A) + 6 mcg (B) Inhalation (MDI/DPI) 400 mcg (A) + 6 mcg (B)
+28.1.3$$Hydrocortisone$$P,S,T$$Injection 100 mg Injection 200 mg
+28.1.4$$Ipratropium$$P,S,T$$Inhalation (MDI/DPI) 20 mcg/dose Respirator solution for use in nebulizer 250 mcg/ml
+28.1.5$$Salbutamol$$P,S,T$$Tablet 2 mg Tablet 4 mg Oral liquid 2 mg/5 ml Inhalation (MDI/DPI) 100 mcg/dose Respirator solution for use in nebulizer 5mg/ml
+28.1.6$$Tiotropium$$P,S,T$$Inhalation (MDI) 9 mcg/dose Inhalation (DPI) 18 mcg/dose
+29.1$$Glucose$$P,S,T$$Injection 5% Injection 10% Injection 25% Injection 50%
+29.2$$Glucose (A) + Sodium chloride (B)$$P,S,T$$Injection 5% (A) + 0.9% (B)
+29.3$$Oral rehydration salts$$P,S,T$$As licensed
+29.4$$Potassium chloride$$P,S,T$$Injection 150 mg/ml Oral liquid 500 mg/5 ml
+29.5$$Ringer lactate$$P,S,T$$Injection (as per IP)
+29.6$$Sodium bicarbonate$$P,S,T$$Injection (as per IP)
+29.7$$Sodium chloride$$P,S,T$$Injection 0.9%
+29.3.1$$Water for Injection$$P,S,T$$Injection
+30.1$$Ascorbic acid (Vitamin C)$$P,S,T$$Tablet 100 mg Tablet 500 mg
+30.2$$Calcium carbonate$$P,S,T$$Tablet 250 mg Tablet 500 mg
+30.3$$Calcium gluconate$$P,S,T$$Injection 100 mg/ml
+30.4$$Cholecalciferol$$P,S,T$$Tablet 1000 IU, Tablet 60000 IU Oral liquid 400 IU/ml
+30.5$$Nicotinamide$$P,S,T$$Tablet 50 mg
+30.6$$Pyridoxine$$P,S,T$$Tablet 10 mg Tablet 50 mg Tablet 100 mg
+30.7$$Riboflavin$$P,S,T$$Tablet 5 mg
+30.8$$Thiamine$$P,S,T$$Tablet 100 mg Injection 100 mg/ml
+30.9$$Vitamin A$$P,S,T$$Capsule 5000 IU Capsule 50000 IU Capsule 100000 IU Oral liquid 100000 IU/ml Injection 50000 IU/ml

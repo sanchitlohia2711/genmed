@@ -7,6 +7,7 @@ require "nokogiri"
 PDF_FILE = "NLEM2015.pdf"
 HTML_FILE = "NLEM2015.html"
 TEXT_FILE = File.open("NLEM2015.txt", "w")
+TEXT_FILE = File.open("NLEM2015_med.txt", "w")
 
 class String
   def is_number?
@@ -16,7 +17,7 @@ class String
   def is_desired_text
     begin
       return [false, ""] if self.length > 500
-      return [true, "-"] unless self.scan(/\U+FFE2|-|–/).empty?
+      return [false, "-"] unless self.scan(/\U+FFE2|-|–/).empty?
       return [self != "2015" && self.is_number?, ""]
     rescue
       byebug
